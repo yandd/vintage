@@ -8,11 +8,15 @@ All programs are under 'as is' condition.
 PLT-Scheme(now Racket) v4.2.1 may be required to run. 
 Download link: http://download.plt-scheme.org/drscheme/v4.2.1.html
 
+///////
 ~/UFO run instructions:
 after running in DrScheme 4.2.1, 
 type in command line:
 > (main INIT-SIS)
 
+press space to launch missiles.
+
+////////////
 ~/Instant Messaging run instructions 
 after running chat server in DrScheme 4.2.1, 
 type in command line:
@@ -21,3 +25,10 @@ type in command line:
 Then, after running chat clients in DrScheme 4.2.1, 
 type in command line:
 > (run-clients 'd)
+
+Message format:
+
+XF:
+
+
+/////////
