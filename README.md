@@ -1,9 +1,16 @@
 # vintage
-Some old projects coded in scheme, back in 2009. Topics courtesy of CS course: Program Design Paradigm.
-Special thanks to my teammates then: Liang, Kinjal, Ketan.
 
 All programs are under 'as is' condition. 
 
+///SFS was part of a large project during my pursuit of MS in computatinoal mathematics. my involement dated back to summer 2008.
+
+SFS usage instructions can be located at the ~/SFS/readme.txt
+
+/************************************/
+
+////
+UFO and Instant Messaging were old projects coded in scheme, back in 2009. Topics courtesy of CS course: Program Design Paradigm.
+Special thanks to my teammates then: Liang, Kinjal, Ketan.
 
 PLT-Scheme(now Racket) v4.2.1 may be required to run. 
 Download link is here: 
@@ -34,6 +41,7 @@ Reciepint_name: msg
 e.g.
 
 XF: msg1
-*:msg     // broadcasting to all active clients
+
+*: msg     // broadcasting msg all active clients
 
 /////////
